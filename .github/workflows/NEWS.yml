@@ -6,6 +6,8 @@ on:
   workflow_dispatch:
   
 env:
+    CLOUDFLARE_WORKER_URL: ${{ secrets.CLOUDFLARE_WORKER_URL }}
+    CLOUDFLARE_WORKER_TOKEN: ${{ secrets.CLOUDFLARE_WORKER_TOKEN }}
     TELEGRAM: ${{ secrets.TELEGRAM }}
     CHAT_ID: ${{ secrets.CHAT_ID }}
     MASTODON: ${{ secrets.MASTODON }}
@@ -40,9 +42,12 @@ jobs:
         if: always()
         run:  ./ephemera.ps1
 
-      #- name: Faune-France
-        #if: always()
-        #run:  ./faune-france.ps1
+      - name: Faune-France
+        if: always()
+        run:  |
+          $worker_url = "$env:CLOUDFLARE_WORKER_URL"
+          $worker_token = "$env:CLOUDFLARE_WORKER_TOKEN"
+          ./faune-france.ps1
 
       - name: Faune & Nature
         if: always()

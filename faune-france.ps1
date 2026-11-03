@@ -7,12 +7,12 @@ $tags ="#faunefrance #biodiversité #ornithologie #science"
 # compare two title
 $old = (Get-Content ./$id/$id.json | ConvertFrom-Json).data[0].title
 
-$new = (Invoke-WebRequest "https://www.faune-france.org/index.php?m_id=1351&content=news" | ConvertFrom-Json).data[0].title
+$new = (Invoke-WebRequest "$worker_url/index.php?m_id=1351&content=news" -Headers @{ Authorization = "Bearer $worker_token" } | ConvertFrom-Json).data[0].title
 
 if ( $new -eq $old ) {
 echo "Le dernier article de $name est déjà existant dans la base de donnée"
 } else {
-Invoke-WebRequest -Uri "https://www.faune-france.org/index.php?m_id=1351&content=news" -OutFile "./$id/$id.json"
+Invoke-WebRequest -Uri "$worker_url/index.php?m_id=1351&content=news" -Headers @{ Authorization = "Bearer $worker_token" } -OutFile "./$id/$id.json"
 
 $title = (Get-Content ./$id/$id.json | ConvertFrom-Json).data[0].title
 $nid = (Get-Content ./$id/$id.json | ConvertFrom-Json).data[0].nid
