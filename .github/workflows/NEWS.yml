@@ -40,9 +40,9 @@ jobs:
         if: always()
         run:  ./ephemera.ps1
 
-      - name: Faune-France
-        if: always()
-        run:  ./faune-france.ps1
+      #- name: Faune-France
+        #if: always()
+        #run:  ./faune-france.ps1
 
       - name: Faune & Nature
         if: always()
