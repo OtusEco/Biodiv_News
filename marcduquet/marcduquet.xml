@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Sun, 01 Nov 2026 10:51:07 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 03 Nov 2026 10:28:35 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>AviList 2026 : le complexe de Pénélope</title>
+		<link>https://marcduquet.com/avilist-2026-le-complexe-de-penelope/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Tue, 03 Nov 2026 10:10:36 +0000</pubDate>
+				<category><![CDATA[Mon avis sur…]]></category>
+		<category><![CDATA[Nomenclature]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Point de vue]]></category>
+		<category><![CDATA[Taxinomie]]></category>
+		<category><![CDATA[Taxonomie]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=9554</guid>
+
+					<description><![CDATA[La première révision majeure de la liste mondiale des oiseaux, appelée AviList v2026, a été publiée récemment (le 20 octobre), apportant de nouveaux changements taxonomiques qui concernent notamment des espèces du Paléarctique occidental, ainsi qu’un enchaînement révisé des ordres, familles, genres et espèces… pour le plus grand plaisir des ornithos qui, tout le monde le sait, adorent que...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles ornithos : 16-31 octobre 2026</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-16-31-octobre-2026/</link>
 		
@@ -108,23 +127,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=9265</guid>
 
 					<description><![CDATA[Au terme de cette première quinzaine d’octobre, les passereaux rares semblent avoir en grande partie évité les îles bretonnes… beaucoup préférant se montrer dans les terres&#160;: deux&#160;Pouillots verdâtres&#160;en Camargue et au cap Sizun, un&#160;Pouillot brun&#160;en Moselle, une&#160;Fauvette épervière&#160;en Camargue, un&#160;Bruant nain&#160;dans le Gard et un autre en Camargue, un&#160;Pipit à dos olive&#160;dans l’Orne et, après...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>OrnithoScience : la Bondrée apivore et le Frelon asiatique</title>
-		<link>https://marcduquet.com/ornithoscience-la-bondree-apivore-et-le-frelon-asiatique/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sat, 10 Oct 2026 11:52:27 +0000</pubDate>
-				<category><![CDATA[Ornithologie]]></category>
-		<category><![CDATA[Pernis apivorus]]></category>
-		<category><![CDATA[Prédation]]></category>
-		<category><![CDATA[Vespa velutina]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=9071</guid>
-
-					<description><![CDATA[Ces dernières années, plusieurs articles espagnols rapportant que la Bondrée apivore pouvait être un prédateur potentiellement important du Frelon asiatique ont été publiés (Macià&#160;et al.&#160;2019,&#160;Rebollo&#160;et al.&#160;2023,Martín-Ávila&#160;et al.&#160;2024, 2025). Cela me donne l’occasion de faire le point sur la présence et l’expansion de cet hyménoptère en Europe, des problèmes qu’il pose et des solutions qui existent...]]></description>
 		
 		
 		
