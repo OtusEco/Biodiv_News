@@ -252,7 +252,7 @@ while (-not $success -and $attempt -lt $maxRetries) {
     Write-Host "Tentative $attempt sur $maxRetries..."
 
     try {
-        $response = Invoke-WebRequest -Uri "https://biodivnews.chbn.fr/api/v1/links?searchterm=$encodeurl" -Headers $auth_header -ErrorAction Stop
+        $response = Invoke-WebRequest -Uri "https://biodivnews.otuseco.fr/api/v1/links?searchterm=$encodeurl" -Headers $auth_header -ErrorAction Stop
         $data = $response.Content | ConvertFrom-Json
         $success = $true
     }
@@ -285,7 +285,7 @@ if ([string]::IsNullOrEmpty($data)) {
 		"Content-Type" = "application/json;charset=UTF-8"
 	}
 	
-	Invoke-RestMethod -Uri "https://biodivnews.charbonneau.fr/api/v1/links" -Method Post -Headers $post_headers -Body ([System.Text.Encoding]::UTF8.GetBytes($post_body))
+	Invoke-RestMethod -Uri "https://biodivnews.otuseco.fr/api/v1/links" -Method Post -Headers $post_headers -Body ([System.Text.Encoding]::UTF8.GetBytes($post_body))
 	
 	} else {
 	# Mise à jour des détails du lien car existant
@@ -308,7 +308,7 @@ if ([string]::IsNullOrEmpty($data)) {
 		"Content-Type" = "application/json;charset=UTF-8"
 	}
 	
-	Invoke-RestMethod -Uri "https://biodivnews.charbonneau.fr/api/v1/links/$id" -Method Put -Headers $post_headers -Body ([System.Text.Encoding]::UTF8.GetBytes($post_body))
+	Invoke-RestMethod -Uri "https://biodivnews.otuseco.fr/api/v1/links/$id" -Method Put -Headers $post_headers -Body ([System.Text.Encoding]::UTF8.GetBytes($post_body))
 }
 
 ##### ARCHIVE.ORG #####
