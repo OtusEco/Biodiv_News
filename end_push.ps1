@@ -235,7 +235,7 @@ $SecretKey = $null
 ## Génération du token + variable d'authentification
 $token = Generate-JWT -Algorithm 'HS512' -SecretKey "$env:BN_API_KEY"
 
-$auth_header = @{Authorization = "Bearer $token"}
+$auth_header = @{Authorization = "Bearer $token"; "User-Agent" = "bn_ga/1.0"}
 
 ## Encodage de l'url + Vérification du lien
 $encodeurl = [System.Web.HttpUtility]::UrlEncode($link)
@@ -283,6 +283,7 @@ if ([string]::IsNullOrEmpty($data)) {
 	$post_headers = @{
 		"Authorization" = "Bearer $token"
 		"Content-Type" = "application/json;charset=UTF-8"
+        "User-Agent" = "bn_ga/1.0"
 	}
 	
 	Invoke-RestMethod -Uri "https://biodivnews.otuseco.fr/api/v1/links" -Method Post -Headers $post_headers -Body ([System.Text.Encoding]::UTF8.GetBytes($post_body))
@@ -306,6 +307,7 @@ if ([string]::IsNullOrEmpty($data)) {
 	$post_headers = @{
 		"Authorization" = "Bearer $token"
 		"Content-Type" = "application/json;charset=UTF-8"
+        "User-Agent" = "bn_ga/1.0"
 	}
 	
 	Invoke-RestMethod -Uri "https://biodivnews.otuseco.fr/api/v1/links/$id" -Method Put -Headers $post_headers -Body ([System.Text.Encoding]::UTF8.GetBytes($post_body))
