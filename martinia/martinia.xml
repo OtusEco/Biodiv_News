@@ -12,7 +12,7 @@
 	<atom:link href="https://martinia.insectes.org/feed/" rel="self" type="application/rss+xml" />
 	<link>https://martinia.insectes.org</link>
 	<description>Revue scientifique de l&#039;odonatologie française</description>
-	<lastBuildDate>Wed, 28 Oct 2026 19:17:03 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 05 Nov 2026 05:19:24 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Première observation de Macromia splendens (Pictet, 1843) pour le département de la Drôme et le fleuve Rhône (Odonata : Macromiidae)</title>
+		<link>https://martinia.insectes.org/premiere-observation-de-emmacromia-splendens-em-pictet-1843-pour-le-departement-de-la-drome-et-le-fleuve-rhone-odonata-macromiidae/</link>
+		
+		<dc:creator><![CDATA[Bertrand Piney]]></dc:creator>
+		<pubDate>Thu, 05 Nov 2026 05:00:00 +0000</pubDate>
+				<category><![CDATA[Non classé]]></category>
+		<guid isPermaLink="false">https://martinia.insectes.org/?p=7404</guid>
+
+					<description><![CDATA[Le 23 juin 2026, à l’occasion d’une prospection en kayak sur le fleuve Rhône dans le cadre du protocole SOGAP (Suivi des Odonates Gomphidés et Anisoptères Prioritaires, libellules.pnaopie.fr/sogap/), une exuvie de M. splendens a été découverte en rive gauche sur la commune d’Ancône (26) (44,58157°N ; 4,71056°E ; 67 m d’altitude) (Fig. 1a) en dehors des mailles prospectées [&#8230;]]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Suivi d’exuvies et distribution des émergences de Somatochlora metallica (Vander Linden, 1825) dans un étang du département de l’Orne de 2015 à 2017 (Odonata : Corduliidae)</title>
 		<link>https://martinia.insectes.org/suivi-dexuvies-et-distribution-des-emergences-de-emsomatochlora-metallica-em-vander-linden-1825-dans-un-etang-du-departement-de-lorne-de-2015-a-2017-odonata-corduliid/</link>
 		
@@ -220,26 +234,6 @@
 		<guid isPermaLink="false">https://martinia.insectes.org/?p=6948</guid>
 
 					<description><![CDATA[Auteur(s)&#160;:Doucet Guillaume, Itrac-Bruneau Raphaëlle, Mora Frédéric, Dehondt François &#038; Durlet Pierre Numérotation&#160;: Type de publication&#160;: Article]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>De nouveaux éléments sur l’écologie de  Nothodiplax dendrophila  Belle, 1984, en Guyane (Odonata : Libellulidae)</title>
-		<link>https://martinia.insectes.org/de-nouveaux-elements-sur-lecologie-de-em-nothodiplax-dendrophila-em-belle-1984-en-guyane-odonata-libellulidae/</link>
-		
-		<dc:creator><![CDATA[Bertrand Piney]]></dc:creator>
-		<pubDate>Thu, 16 Oct 2025 04:20:00 +0000</pubDate>
-				<category><![CDATA[Non classé]]></category>
-		<category><![CDATA[autochthony]]></category>
-		<category><![CDATA[autochtonie]]></category>
-		<category><![CDATA[Écozone néotropicale]]></category>
-		<category><![CDATA[Neotropical ecozone]]></category>
-		<category><![CDATA[Savana]]></category>
-		<category><![CDATA[Savanne]]></category>
-		<guid isPermaLink="false">https://martinia.insectes.org/?p=6861</guid>
-
-					<description><![CDATA[Nothodiplax est un genre monospécifique représenté par l’espèce Nothodiplax dendrophila Belle, 1984. Celle-ci a été décrite à partir de trois mâles et deux femelles collectés en 1964 dans le nord-est du Suriname (Belle, 1984). Elle a ensuite été signalée en Guyane (Machet, 1991), mais aucune autre observation n’a été rapportée jusqu’en 2019, année d’une nouvelle [&#8230;]]]></description>
 		
 		
 		
