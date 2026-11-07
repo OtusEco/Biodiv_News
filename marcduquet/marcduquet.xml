@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Tue, 03 Nov 2026 10:28:35 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 07 Nov 2026 13:00:31 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,22 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Observer les oiseaux dans le delta du fleuve Sénégal</title>
+		<link>https://marcduquet.com/observer-les-oiseaux-dans-le-delta-du-fleuve-senegal/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Sat, 07 Nov 2026 13:00:31 +0000</pubDate>
+				<category><![CDATA[Voyages]]></category>
+		<category><![CDATA[Oiseaux]]></category>
+		<category><![CDATA[Sénégal]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=9218</guid>
+
+					<description><![CDATA[Par Patrick Triplet, Mohamédine Seck &#38; Moussa Niang Le delta du fleuve Sénégal couvre environ 5000 km2, près de 4000 au Sénégal et le reste en Mauritanie. Côté Sénégal, le delta est riche de zones de protection (fig.&#8216;1) aux statuts très différents&#160;: une aire marine protégée, qui couvre pratiquement tout le littoral et sa haute...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>AviList 2026 : le complexe de Pénélope</title>
 		<link>https://marcduquet.com/avilist-2026-le-complexe-de-penelope/</link>
 		
@@ -110,23 +126,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=9171</guid>
 
 					<description><![CDATA[Par Grégoire Duffez Le Pouillot fitis&#160;Phylloscopus trochilus&#160;est un passereau migrateur bien connu en Europe occidentale, où la sous-espèce nominale&#160;P. t. trochilus&#160;est communément observée en migration et durant la période de reproduction. Il se distingue du Pouillot véloce&#160;P. collybita&#160;principalement par sa coloration plus jaune, sa taille légèrement supérieure, sa projection primaire plus longue et surtout ses...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 1-15 octobre 2026</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-1-15-octobre-2026/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Fri, 16 Oct 2026 08:08:41 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=9265</guid>
-
-					<description><![CDATA[Au terme de cette première quinzaine d’octobre, les passereaux rares semblent avoir en grande partie évité les îles bretonnes… beaucoup préférant se montrer dans les terres&#160;: deux&#160;Pouillots verdâtres&#160;en Camargue et au cap Sizun, un&#160;Pouillot brun&#160;en Moselle, une&#160;Fauvette épervière&#160;en Camargue, un&#160;Bruant nain&#160;dans le Gard et un autre en Camargue, un&#160;Pipit à dos olive&#160;dans l’Orne et, après...]]></description>
 		
 		
 		
