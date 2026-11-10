@@ -15,6 +15,8 @@ env:
     BSKY_pass: ${{ secrets.BSKY_pass }}
     BN_API_KEY: ${{ secrets.BN_API_KEY }}
     LINKEDIN: ${{ secrets.LINKEDIN }}
+    ARCHIVE_ACCESS_KEY: ${{ secrets.ARCHIVE_ACCESS_KEY }}
+    ARCHIVE_SECRET_KEY: ${{ secrets.ARCHIVE_SECRET_KEY }}
 
 jobs:
   Update-news:

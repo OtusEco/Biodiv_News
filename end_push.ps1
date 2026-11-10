@@ -314,30 +314,39 @@ if ([string]::IsNullOrEmpty($data)) {
 }
 
 ##### ARCHIVE.ORG #####
-# retentons en cas d'échec
+
 $maxRetries = 3
-$retryDelay = 2
 $attempt = 0
 $success = $false
 
+$headers = @{
+    "Authorization" = "LOW $env:ARCHIVE_ACCESS_KEY`:$env:ARCHIVE_SECRET_KEY"
+    "Accept"        = "application/json"
+}
+
 while (-not $success -and $attempt -lt $maxRetries) {
+
     $attempt++
+
     Write-Host "[ARCHIVE.ORG] Tentative $attempt sur $maxRetries..."
 
     try {
-        Invoke-WebRequest -Uri "https://web.archive.org/save/$link" -ErrorAction Stop
+        $response = Invoke-WebRequest -Uri "https://web.archive.org/save" -Method POST -Headers $headers -Body @{ url = $link } -TimeoutSec 60 -ErrorAction Stop
+
+        Write-Host "[ARCHIVE.ORG] Requête envoyée. HTTP $([int]$response.StatusCode)"
+
         $success = $true
     }
     catch {
-        Write-Warning "❌ Erreur lors de la tentative $attempt : $($_.Exception.Message)"
+        Write-Warning "[ARCHIVE.ORG] Erreur tentative $attempt : $($_.Exception.Message)"
+
         if ($attempt -lt $maxRetries) {
-            Write-Host "Nouvelle tentative dans $retryDelay secondes..."
-            Start-Sleep -Seconds $retryDelay
-        } else {
-            Write-Error "La requête a échoué après $maxRetries tentatives."
+            Write-Host "Nouvelle tentative dans 10 secondes..."
+            Start-Sleep -Seconds 10
         }
     }
 }
 
-##### ARCHIVE.PH #####
-#Invoke-WebRequest -Uri "https://archive.ph/submit/?url=$link" -ErrorAction Stop
+if (-not $success) {
+    throw "[ARCHIVE.ORG] Échec après $maxRetries tentatives."
+}
