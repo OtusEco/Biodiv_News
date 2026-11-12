@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Sat, 07 Nov 2026 13:00:31 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 12 Nov 2026 07:04:58 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>La Sterne caspienne est-elle en augmentation en France ?</title>
+		<link>https://marcduquet.com/la-sterne-caspienne-est-elle-en-augmentation-en-france/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Thu, 12 Nov 2026 07:04:57 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Hydroprogne caspia]]></category>
+		<category><![CDATA[Migration]]></category>
+		<category><![CDATA[Statut]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=9415</guid>
+
+					<description><![CDATA[Par Olivier Iborra La Sterne caspienne&#160;Hydroprogne&#160;caspia est une espèce cosmopolite, nicheuse sur tous les continents excepté l’Amérique du Sud&#160;; elle est toutefois rarement abondante et son aire de répartition est très sporadique (fig.&#160;1). Sa population mondiale est estimée à 250,000-470,000 individus (Wetlands International 2026), les effectifs les plus importants se trouvant en Amérique du Nord,...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Observer les oiseaux dans le delta du fleuve Sénégal</title>
 		<link>https://marcduquet.com/observer-les-oiseaux-dans-le-delta-du-fleuve-senegal/</link>
 		
@@ -106,26 +124,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=8957</guid>
 
 					<description><![CDATA[Après deux articles consacrés d’une part à la tête et aux parties inférieures (Duquet 2025) et d’autre part à la queue et aux parties supérieures (Duquet 2026), ce troisième volet présente la topographie de l’aile, une partie du corps qui comporte de nombreux détails précieux pour la détermination de l’âge d’un oiseau ainsi que pour...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>À propos des Pouillots fitis ternes/à pattes sombres vus en France</title>
-		<link>https://marcduquet.com/a-propos-des-pouillots-fitis-ternes-a-pattes-sombres-vus-en-france/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Thu, 22 Oct 2026 07:52:19 +0000</pubDate>
-				<category><![CDATA[Identification]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[P. t. acredula]]></category>
-		<category><![CDATA[P. t. yakutensis]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Phylloscopus trochilus]]></category>
-		<category><![CDATA[Sous-espèce]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=9171</guid>
-
-					<description><![CDATA[Par Grégoire Duffez Le Pouillot fitis&#160;Phylloscopus trochilus&#160;est un passereau migrateur bien connu en Europe occidentale, où la sous-espèce nominale&#160;P. t. trochilus&#160;est communément observée en migration et durant la période de reproduction. Il se distingue du Pouillot véloce&#160;P. collybita&#160;principalement par sa coloration plus jaune, sa taille légèrement supérieure, sa projection primaire plus longue et surtout ses...]]></description>
 		
 		
 		
