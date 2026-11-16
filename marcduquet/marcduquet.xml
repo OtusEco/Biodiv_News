@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Thu, 12 Nov 2026 07:04:58 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 16 Nov 2026 10:02:12 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Nouvelles ornithos : 1-15 novembre 2026</title>
+		<link>https://marcduquet.com/nouvelles-ornithos-1-15-novembre-2026/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Mon, 16 Nov 2026 10:02:12 +0000</pubDate>
+				<category><![CDATA[Observations]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Paléarctique occidental]]></category>
+		<category><![CDATA[Raretés]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=9658</guid>
+
+					<description><![CDATA[Le mois de novembre commence en fanfare avec de nouveau une première française : après le Merle d’Amérique observé sur l’île de Sein en octobre, c’est un Butor d’Amérique qui a été trouvé en Bretagne (voir l’encadré). À signaler également un afflux (modéré à ce jour) de Cassenoix mouchetés sibériens et de nouveau une belle moisson de passereaux occasionnels : le...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>La Sterne caspienne est-elle en augmentation en France ?</title>
 		<link>https://marcduquet.com/la-sterne-caspienne-est-elle-en-augmentation-en-france/</link>
 		
@@ -107,23 +124,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=9038</guid>
 
 					<description><![CDATA[À l’automne 2025, j’avais imaginé une compétition ornithologique amicale en direct des îles atlantiques, notamment Sein et Ouessant, qui reposait sur les oiseaux rares qui y étaient trouvés. Certains ornithos ne connaissaient malheureusement pas le sens du terme&#160;amical&#160;et la large victoire d’Ouessant a conduit à des comportements inacceptables de Sein-bashing… Les responsables de ce dénigrement...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Topographie de l’oiseau (III) : l’aile</title>
-		<link>https://marcduquet.com/topographie-de-loiseau-iii-laile/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Tue, 27 Oct 2026 07:13:24 +0000</pubDate>
-				<category><![CDATA[Identification]]></category>
-		<category><![CDATA[Aile]]></category>
-		<category><![CDATA[Plumage]]></category>
-		<category><![CDATA[Topographie]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=8957</guid>
-
-					<description><![CDATA[Après deux articles consacrés d’une part à la tête et aux parties inférieures (Duquet 2025) et d’autre part à la queue et aux parties supérieures (Duquet 2026), ce troisième volet présente la topographie de l’aile, une partie du corps qui comporte de nombreux détails précieux pour la détermination de l’âge d’un oiseau ainsi que pour...]]></description>
 		
 		
 		
