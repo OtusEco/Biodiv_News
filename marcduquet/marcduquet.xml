@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Mon, 16 Nov 2026 10:02:12 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 18 Nov 2026 11:59:12 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,20 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Île de Sein : des synthèses ornithologiques de grande qualité !</title>
+		<link>https://marcduquet.com/ile-de-sein-des-syntheses-ornithologiques-de-grande-qualite/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Wed, 18 Nov 2026 11:59:12 +0000</pubDate>
+				<category><![CDATA[Mon avis sur…]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=9741</guid>
+
+					<description><![CDATA[Depuis quelques années Grégoire Duffez compile les données de l’île de Sein (Finistère) afin de publier une synthèse ornithologique annuelle. Ses objectifs sont mulptiples : 1) dresser un bilan exhaustif et le plus précis possible des observations ornithologiques effectuées dans l’année, 2) apporter des éléments d’information pour compléter les connaissances (identification, migration, sous-espèces, rareté etc…),...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Nouvelles ornithos : 1-15 novembre 2026</title>
 		<link>https://marcduquet.com/nouvelles-ornithos-1-15-novembre-2026/</link>
 		
@@ -39,7 +53,7 @@
 		<category><![CDATA[Raretés]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=9658</guid>
 
-					<description><![CDATA[Le mois de novembre commence en fanfare avec de nouveau une première française : après le Merle d’Amérique observé sur l’île de Sein en octobre, c’est un Butor d’Amérique qui a été trouvé en Bretagne (voir l’encadré). À signaler également un afflux (modéré à ce jour) de Cassenoix mouchetés sibériens et de nouveau une belle moisson de passereaux occasionnels : le...]]></description>
+					<description><![CDATA[Le mois de novembre commence en fanfare avec de nouveau une première française&#160;: après le Merle d’Amérique observé sur l’île de Sein en octobre, c’est un&#160;Butor d’Amérique&#160;qui a été trouvé en Bretagne (voir l’encadré). À signaler également un afflux (modéré à ce jour) de&#160;Cassenoix mouchetés&#160;sibériens et de nouveau une belle moisson de passereaux occasionnels&#160;: le...]]></description>
 		
 		
 		
@@ -57,7 +71,7 @@
 		<category><![CDATA[Statut]]></category>
 		<guid isPermaLink="false">https://marcduquet.com/?p=9415</guid>
 
-					<description><![CDATA[Par Olivier Iborra La Sterne caspienne&#160;Hydroprogne&#160;caspia est une espèce cosmopolite, nicheuse sur tous les continents excepté l’Amérique du Sud&#160;; elle est toutefois rarement abondante et son aire de répartition est très sporadique (fig.&#160;1). Sa population mondiale est estimée à 250,000-470,000 individus (Wetlands International 2026), les effectifs les plus importants se trouvant en Amérique du Nord,...]]></description>
+					<description><![CDATA[Article mis à jour le 17 novembre 2026 Par Olivier Iborra La Sterne caspienne&#160;Hydroprogne&#160;caspia est une espèce cosmopolite, nicheuse sur tous les continents excepté l’Amérique du Sud&#160;; elle est toutefois rarement abondante et son aire de répartition est très sporadique (fig.&#160;1). Sa population mondiale est estimée à 250,000-470,000 individus (Wetlands International 2026), les effectifs les...]]></description>
 		
 		
 		
@@ -110,20 +124,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=9460</guid>
 
 					<description><![CDATA[L’oiseau de la quinzaine est un&#160;Merle d’Amérique&#160;trouvé sur l’île de Sein (voir l&#8217;encadré ci-dessous), mais d’autres passereaux remarquables ont animé cette deuxième moitié d’octobre&#160;: deux&#160;Robins à flancs roux, une troisième&#160;Pie-grièche isabelle, trois&#160;Bruants rustiques, quatre&#160;Pipits à dos olive, trois&#160;Tariers de Sibérie, quatre&#160;Traquets isabelles, deux&#160;Babillardes orientales, cinq&#160;Fauvettes épervières, huit&#160;Bruants nains, neuf&#160;Pouillots bruns&#160;mais un seul&#160;Pouillot de Schwarz&#160;et deux&#160;Pouillots...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>En direct des gags : octobre 2026</title>
-		<link>https://marcduquet.com/en-direct-des-gags-octobre-2026/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sat, 31 Oct 2026 20:29:08 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=9038</guid>
-
-					<description><![CDATA[À l’automne 2025, j’avais imaginé une compétition ornithologique amicale en direct des îles atlantiques, notamment Sein et Ouessant, qui reposait sur les oiseaux rares qui y étaient trouvés. Certains ornithos ne connaissaient malheureusement pas le sens du terme&#160;amical&#160;et la large victoire d’Ouessant a conduit à des comportements inacceptables de Sein-bashing… Les responsables de ce dénigrement...]]></description>
 		
 		
 		
