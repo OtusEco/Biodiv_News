@@ -12,13 +12,13 @@
 	<atom:link href="https://ephemera.insectes.org/publication/feed/" rel="self" type="application/rss+xml" />
 	<link>https://ephemera.insectes.org</link>
 	<description>Une revue scientifique dédiée aux insectes aquatiques.</description>
-	<lastBuildDate>Thu, 12 Nov 2026 09:46:44 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 19 Nov 2026 10:43:30 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=7.1.4</generator>
+	<generator>https://wordpress.org/?v=7.1.5</generator>
 
 <image>
 	<url>https://ephemera.insectes.org/wp-content/uploads/2023/11/ephemerae_full-150x150.png</url>
@@ -28,6 +28,37 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Les Éphémères, Plécoptères et Trichoptères de la haute Romanche et du Torrent de l’Homme (Hautes-Alpes, France) : diversité et enjeux de conservation</title>
+		<link>https://ephemera.insectes.org/publication/les-ephemeres-plecopteres-et-trichopteres-de-la-haute-romanche-et-du-torrent-de-lhomme-hautes-alpes-france-diversite-et-enjeux-de-conservation/</link>
+		
+		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
+		<pubDate>Thu, 19 Nov 2026 10:24:24 +0000</pubDate>
+				<category><![CDATA[aquatic invertebrates]]></category>
+		<category><![CDATA[Ecrins Massif]]></category>
+		<category><![CDATA[EPT]]></category>
+		<category><![CDATA[études d’impact]]></category>
+		<category><![CDATA[glacial torrent]]></category>
+		<category><![CDATA[impact studies]]></category>
+		<category><![CDATA[invertébrés aquatiques]]></category>
+		<category><![CDATA[IUCN Red List]]></category>
+		<category><![CDATA[Liste rouge UICN]]></category>
+		<category><![CDATA[Massif des Écrins]]></category>
+		<category><![CDATA[torrent glaciaire]]></category>
+		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2482</guid>
+
+					<description><![CDATA[Un inventaire ciblé sur les Éphémères, les Plécoptères et les Trichoptères a été réalisé sur deux torrents d’altitude de la haute Romanche. Cet inventaire révèle une richesse taxonomique observée relativement faible, compatible avec les conditions de vie contraignantes des rivières d’origine glaciaire. Mais plusieurs espèces de ces cours d’eau alpins peuvent être qualifiées de remarquables [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="wp-block-paragraph">Un inventaire ciblé sur les Éphémères, les Plécoptères et les Trichoptères a été réalisé sur deux torrents d’altitude de la haute Romanche. Cet inventaire révèle une richesse taxonomique observée relativement faible, compatible avec les conditions de vie contraignantes des rivières d’origine glaciaire. Mais plusieurs espèces de ces cours d’eau alpins peuvent être qualifiées de remarquables par leur caractère endémique et/ou leur statut de conservation UICN, justifiant la prise en compte de ces ordres dans l’évaluation environnementale des projets d’aménagement. </p>
+
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Chaetocladius montlibanus sp. n., a glacial relict species occurring in karstic springs at the Sannine Mount in Lebanon (Diptera, Chironomidae, Orthocladiinae)</title>
 		<link>https://ephemera.insectes.org/publication/chaetocladius-montlibanus-sp-n-a-glacial-relict-species-occurring-in-karstic-springs-at-the-sannine-mount-in-lebanon-diptera-chironomidae-orthocladiinae/</link>
 		
@@ -262,28 +293,6 @@
 
 
 <p class="wp-block-paragraph"></p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles données de Besdolus imhoffi (Pictet, 1841) dans le Massif des Pyrénées (Plecoptera, Perlodidae)</title>
-		<link>https://ephemera.insectes.org/publication/nouvelles-donnees-de-besdolus-imhoffi-pictet-1841-dans-le-massif-des-pyrenees-plecoptera-perlodidae/</link>
-		
-		<dc:creator><![CDATA[Michel Brulin]]></dc:creator>
-		<pubDate>Fri, 10 Jul 2026 10:56:11 +0000</pubDate>
-				<category><![CDATA[exuvies larvaires]]></category>
-		<category><![CDATA[inventaire national des Plécoptères]]></category>
-		<category><![CDATA[larval exuviae]]></category>
-		<category><![CDATA[liste rouge]]></category>
-		<category><![CDATA[national inventory]]></category>
-		<category><![CDATA[red list]]></category>
-		<guid isPermaLink="false">https://ephemera.insectes.org/?post_type=publication&#038;p=2408</guid>
-
-					<description><![CDATA[Ce Plécoptère était connu par le passé de quelques rivières du piémont pyrénéen comme la Garonne et l’Arize (dépt. 31), le Nistos (dépt. 65) et le Lez (dépt. 09) (Le Doaré &#38; Vinçon 2007, Ruffoni 2024). Les dernières mentions connues des Pyrénées remontent aux années 1960 (Berthélemy 1966). Malgré quelques recherches assez récentes mais loin [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p class="wp-block-paragraph">Ce Plécoptère était connu par le passé de quelques rivières du piémont pyrénéen comme la Garonne et l’Arize (dépt. 31), le Nistos (dépt. 65) et le Lez (dépt. 09) (Le Doaré &amp; Vinçon 2007, Ruffoni 2024). Les dernières mentions connues des Pyrénées remontent aux années 1960 (Berthélemy 1966). Malgré quelques recherches assez récentes mais loin d’être suffisantes menées par l’Opie-benthos, ces stations historiques de <em>B. imhoffi</em> dans le grand Sud-Ouest n’ont pas pu être actualisées (Ruffoni 2024, Office pour les insectes et leur environnement 2025). Actuellement, la situation de l’espèce sur le territoire national est préoccupante et a motivé son classement « En danger » dans la liste rouge des espèces menacées en France (Ruffoni et al. 2025).</p>
 ]]></content:encoded>
 					
 		
