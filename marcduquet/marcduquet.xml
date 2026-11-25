@@ -12,13 +12,13 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Wed, 18 Nov 2026 11:59:12 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 24 Nov 2026 11:06:34 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=7.1.4</generator>
+	<generator>https://wordpress.org/?v=7.1.5</generator>
 
 <image>
 	<url>https://marcduquet.com/wp-content/uploads/2024/12/cropped-cropped-logo_seul_site-32x32.png</url>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Le Robin à flancs roux : statut en France et identification</title>
+		<link>https://marcduquet.com/le-robin-a-flancs-roux-statut-en-france-et-identification/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Tue, 24 Nov 2026 11:06:34 +0000</pubDate>
+				<category><![CDATA[Ornithologie]]></category>
+		<category><![CDATA[France]]></category>
+		<category><![CDATA[Identification]]></category>
+		<category><![CDATA[Passereaux]]></category>
+		<category><![CDATA[Statut]]></category>
+		<category><![CDATA[Tarsiger cyanurus]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=9613</guid>
+
+					<description><![CDATA[L&#8217;observation de trois Robins à flancs roux&#160;Tarsiger cyanurus en France cet automne m’a incité à faire le point sur le statut de cette espèce sibérienne dans notre pays, où son apparition semble de plus en plus régulière, sans doute en lien avec l’explosion de la population finlandaise, qui atteindrait 22000&#160;couples (Rajasärkkä&#160;2025, Duquet 2025). I –&#160;Le...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Île de Sein : des synthèses ornithologiques de grande qualité !</title>
 		<link>https://marcduquet.com/ile-de-sein-des-syntheses-ornithologiques-de-grande-qualite/</link>
 		
@@ -107,23 +126,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=9554</guid>
 
 					<description><![CDATA[La première révision majeure de la liste mondiale des oiseaux, appelée AviList v2026, a été publiée récemment (le 20 octobre), apportant de nouveaux changements taxonomiques qui concernent notamment des espèces du Paléarctique occidental, ainsi qu’un enchaînement révisé des ordres, familles, genres et espèces… pour le plus grand plaisir des ornithos qui, tout le monde le sait, adorent que...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>Nouvelles ornithos : 16-31 octobre 2026</title>
-		<link>https://marcduquet.com/nouvelles-ornithos-16-31-octobre-2026/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Sun, 01 Nov 2026 10:51:06 +0000</pubDate>
-				<category><![CDATA[Observations]]></category>
-		<category><![CDATA[France]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Raretés]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=9460</guid>
-
-					<description><![CDATA[L’oiseau de la quinzaine est un&#160;Merle d’Amérique&#160;trouvé sur l’île de Sein (voir l&#8217;encadré ci-dessous), mais d’autres passereaux remarquables ont animé cette deuxième moitié d’octobre&#160;: deux&#160;Robins à flancs roux, une troisième&#160;Pie-grièche isabelle, trois&#160;Bruants rustiques, quatre&#160;Pipits à dos olive, trois&#160;Tariers de Sibérie, quatre&#160;Traquets isabelles, deux&#160;Babillardes orientales, cinq&#160;Fauvettes épervières, huit&#160;Bruants nains, neuf&#160;Pouillots bruns&#160;mais un seul&#160;Pouillot de Schwarz&#160;et deux&#160;Pouillots...]]></description>
 		
 		
 		
