@@ -12,7 +12,7 @@
 	<atom:link href="https://marcduquet.com/feed/" rel="self" type="application/rss+xml" />
 	<link>https://marcduquet.com</link>
 	<description>Une eRevue pour les ornithos de terrain</description>
-	<lastBuildDate>Tue, 24 Nov 2026 11:06:34 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 27 Nov 2026 21:22:06 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Topographie de l’oiseau (IV) : les parties nues</title>
+		<link>https://marcduquet.com/topographie-de-loiseau-iv-les-parties-nues/</link>
+		
+		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
+		<pubDate>Fri, 27 Nov 2026 21:22:06 +0000</pubDate>
+				<category><![CDATA[Identification]]></category>
+		<category><![CDATA[Bec]]></category>
+		<category><![CDATA[Œil]]></category>
+		<category><![CDATA[Parties nues]]></category>
+		<category><![CDATA[Patte]]></category>
+		<category><![CDATA[Topographie]]></category>
+		<guid isPermaLink="false">https://marcduquet.com/?p=9115</guid>
+
+					<description><![CDATA[J’ai commencé à m’intéresser de près à la topographie de l’oiseau à la fin des années 1980, en lisant&#160;The New Approach to identification&#160;(Grant &#38; Mullarney 1989), un fascicule qui regroupait une série d’articles publiés dans la revue anglaise&#160;Birding World. Bien connaître la topographie permet de&#160;: 1) décrire un oiseau inconnu (p. ex. une espèce occasionnelle)...]]></description>
+		
+		
+		
+			</item>
+		<item>
 		<title>Le Robin à flancs roux : statut en France et identification</title>
 		<link>https://marcduquet.com/le-robin-a-flancs-roux-statut-en-france-et-identification/</link>
 		
@@ -107,25 +126,6 @@
 		<guid isPermaLink="false">https://marcduquet.com/?p=9218</guid>
 
 					<description><![CDATA[Par Patrick Triplet, Mohamédine Seck &#38; Moussa Niang Le delta du fleuve Sénégal couvre environ 5000 km2, près de 4000 au Sénégal et le reste en Mauritanie. Côté Sénégal, le delta est riche de zones de protection (fig.&#8216;1) aux statuts très différents&#160;: une aire marine protégée, qui couvre pratiquement tout le littoral et sa haute...]]></description>
-		
-		
-		
-			</item>
-		<item>
-		<title>AviList 2026 : le complexe de Pénélope</title>
-		<link>https://marcduquet.com/avilist-2026-le-complexe-de-penelope/</link>
-		
-		<dc:creator><![CDATA[Marc Duquet]]></dc:creator>
-		<pubDate>Tue, 03 Nov 2026 10:10:36 +0000</pubDate>
-				<category><![CDATA[Mon avis sur…]]></category>
-		<category><![CDATA[Nomenclature]]></category>
-		<category><![CDATA[Paléarctique occidental]]></category>
-		<category><![CDATA[Point de vue]]></category>
-		<category><![CDATA[Taxinomie]]></category>
-		<category><![CDATA[Taxonomie]]></category>
-		<guid isPermaLink="false">https://marcduquet.com/?p=9554</guid>
-
-					<description><![CDATA[La première révision majeure de la liste mondiale des oiseaux, appelée AviList v2026, a été publiée récemment (le 20 octobre), apportant de nouveaux changements taxonomiques qui concernent notamment des espèces du Paléarctique occidental, ainsi qu’un enchaînement révisé des ordres, familles, genres et espèces… pour le plus grand plaisir des ornithos qui, tout le monde le sait, adorent que...]]></description>
 		
 		
 		
